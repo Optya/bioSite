@@ -1,2 +1,4 @@
 # bioSite
-bioSite assignment for WEB 200
+bioSite project for WEB 200
+The coded pages for this repository will feature HTML files for a landing page, about page, and hobby page. There will also be a CSS file linked to the HTML files.
+The subject that this project is based upon is a young woman named Allison McCue. The content in the pages will display images of her, her occupation, and one of her hobbies. It will also include text from an interview and research about her.
